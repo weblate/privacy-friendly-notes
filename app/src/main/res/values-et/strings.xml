@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_category">Vaikimisi</string>
+    <string name="default_color">Vaikimisi värv</string>
+    <string name="title_textnote">Tekstimärge</string>
+    <string name="title_checklistnote">Kontrollnimekiri</string>
+    <string name="title_audionote">Häälmärge</string>
+    <string name="app_name">Märkmik</string>
+    <string name="app_name_long">Privaatsussõbralik märkmik</string>
+    <string name="title_manage_categories">Kategooriad</string>
+</resources>
